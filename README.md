@@ -3,26 +3,20 @@
   <img src="https://raw.githubusercontent.com/username/your-repo/main/image_2.png" alt="Noushin Fatema's Banner" width="100%">
 </p>
 
-# 💫 Hi, I am Noushin Fatema! 👋
-### Frontend Developer | CSE Graduate 🎓
+#  Hi, I am Noushin Fatema! 👋
 
-📍 **Location:** Bangladesh  
-📧 **Email:** [noushinfatema788@gmail.com](mailto:noushinfatema788@gmail.com)  
-
----
 
 ## 👩‍💻 About Me
-আমি একজন CSE (Computer Science & Engineering) গ্র্যাজুয়েট এবং বর্তমানে একজন ফ্রন্টএন্ড ডেভেলপার (Frontend Developer) হিসেবে কাজ করছি। ওয়েব ডেভেলপমেন্টের পাশাপাশি সাইবার সিকিউরিটি এবং অডিও ডিপফেক ডিটেকশন (Audio Deepfake Detection) নিয়ে আমার বিশেষ আগ্রহ রয়েছে। নতুন নতুন টেকনোলজি শেখা এবং সেগুলোকে বাস্তবে রূপান্তর করতে আমি দারুণ উৎসাহ পাই।
+I am a Computer Science and Engineering (CSE) graduate currently working as a Frontend Developer. Alongside web development, my primary research interest is in audio deepfake detection, and I am actively exploring the field of cybersecurity. I love learning new technologies and bringing ideas to life through code.
 
-- 🔭 **বর্তমানে কাজ করছি:** আকর্ষণীয় ও ইন্টারঅ্যাক্টিভ ফ্রন্টএন্ড প্রজেক্ট তৈরিতে।
-- 🌱 **যা শিখছি:** Python এবং Machine Learning ফ্রেমওয়ার্কস।
-- 🔬 **গবেষণা ও অ্যাক্টিভিটি:** অডিও ডিপফেক ডিটেকশন (Audio Deepfake Detection) সম্পর্কিত রিসার্চ পেপার নিয়মিত পড়ার অভ্যাস গড়ার চেষ্টা করছি (লক্ষ্য: প্রতিদিন ১টি করে পেপার পড়া!)।
-- ⚡ **অবসর সময়ে:** থ্রিলার মুভি ও লিমিটেড সিরিজ দেখতে পছন্দ করি। পাশাপাশি গান শুনতে ভালো লাগে।
+- 🔭 **Currently working on:** Building engaging and interactive frontend projects.
+- 🌱 **Currently learning:** Python and Machine Learning frameworks.
+- 🔬 **Research & Activities:** I am building a habit of reading one research paper a day, currently focusing on papers related to audio deepfake detection.
 
 ---
 
 ## 🌐 Social Links
-এখানে আমার সাথে যোগাযোগ করতে পারেন:
+Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/noushinfatema)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/noushinfatema)
@@ -32,17 +26,7 @@
 
 ---
 
-## 💻 Tech Stack & Skills
-আমার ব্যবহৃত এবং প্রতিনিয়ত কাজ করা টেকনোলজি ও টুলসগুলো নিচে দেওয়া হলো:
-
-### Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### Frontend & Backend Frameworks / Libraries
+### Frontend & Backend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -52,13 +36,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Better Auth](https://img.shields.io/badge/Better_Auth-%23323330?style=for-the-badge&logo=auth0&logoColor=white)
 
-### Tools & Others
+### Tools
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-এখানে আমার কিছু নিয়মিত অ্যাক্টিভিটি ও কন্ট্রিবিউশন ট্র্যাক করা হলো:
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=noushinfatema&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%">
@@ -71,17 +54,17 @@
 
 ---
 
-## 📌 Featured Projects (Pinned Repositories)
+## 📌 Pinned Repositories
 
 ### 1. 🌐 [Project One Name](https://github.com/noushinfatema/project-one) 
-*এখানে আপনার প্রথম প্রজেক্টের সংক্ষিপ্ত ডেসক্রিপশন লিখুন।*
-- **টেক স্ট্যাক:** React, Tailwind CSS, Better Auth, MongoDB  
-- **লাইভ ডেমো:** [Live Link 🔗](https://example.com)  
+*Brief overview of the project goes here. (Make sure to include a screenshot, main features, dependencies, and local run instructions inside the repo's actual README).*
+- **Tech Stack:** React, Tailwind CSS, Better Auth, MongoDB  
+- **Live Demo:** [Live Link 🔗](https://example.com)  
 
 ### 2. 🚀 [Project Two Name](https://github.com/noushinfatema/project-two)  
-*এখানে আপনার দ্বিতীয় প্রজেক্টের সংক্ষিপ্ত ডেসক্রিপশন লিখুন।*
-- **টেক স্ট্যাক:** Next.js, TypeScript, Tailwind CSS, Better Auth  
-- **লাইভ ডেমো:** [Live Link 🔗](https://example.com)  
+*Brief overview of the project goes here.*
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Better Auth  
+- **Live Demo:** [Live Link 🔗](https://example.com)  
 
 ---
 <p align="center">
