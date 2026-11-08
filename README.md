@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="<img width="3584" height="1184" alt="Image" src="Banner.jpg" />" alt="Noushin Fatema's Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/noushinfatema/noushinfatema/main/Banner.jpg" alt="Noushin Fatema's Banner" width="100%">
 </p>
 
 #  Hi, I am Noushin Fatema! 👋
