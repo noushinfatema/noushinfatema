@@ -54,19 +54,4 @@ Let's connect:
 
 ---
 
-## 📌 Pinned Repositories
 
-### 1. 🌐 [Project One Name](https://github.com/noushinfatema/project-one) 
-*Brief overview of the project goes here. (Make sure to include a screenshot, main features, dependencies, and local run instructions inside the repo's actual README).*
-- **Tech Stack:** React, Tailwind CSS, Better Auth, MongoDB  
-- **Live Demo:** [Live Link 🔗](https://example.com)  
-
-### 2. 🚀 [Project Two Name](https://github.com/noushinfatema/project-two)  
-*Brief overview of the project goes here.*
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Better Auth  
-- **Live Demo:** [Live Link 🔗](https://example.com)  
-
----
-<p align="center">
-  👁️ View Count: <img src="https://komarev.com/ghpvc/?username=noushinfatema&icon=0&color=blue" alt="Profile Views" />
-</p>
