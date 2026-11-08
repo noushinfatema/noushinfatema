@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/your-repo/main/image_2.png" alt="Noushin Fatema's Banner" width="100%">
+  <img src="<img width="3584" height="1184" alt="Image" src="https://github.com/user-attachments/assets/b7eafe45-9d4d-4f54-ab97-cb571cf77715" />" alt="Noushin Fatema's Banner" width="100%">
 </p>
 
 #  Hi, I am Noushin Fatema! 👋
