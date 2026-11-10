@@ -3,7 +3,10 @@
   <img src="https://raw.githubusercontent.com/noushinfatema/noushinfatema/main/Banner.jpg" alt="Noushin Fatema's Banner" width="100%">
 </p>
 
-#  Hi, I am Noushin Fatema! 👋
+<p align="center">
+ #  Hello and welcome. I am Noushin Fatema! 👋
+</p>
+
 
 
 ## 👩‍💻 About Me
@@ -15,7 +18,7 @@ I am a Computer Science and Engineering (CSE) graduate currently working as a Fr
 
 ---
 
-## 🌐 Social Links
+## 🌐 Follow me on socials 
 Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/noushinfatema)
