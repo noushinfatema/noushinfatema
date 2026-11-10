@@ -3,9 +3,17 @@
   <img src="https://raw.githubusercontent.com/noushinfatema/noushinfatema/main/Banner.jpg" alt="Noushin Fatema's Banner" width="100%">
 </p>
 
-<p align="center">
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello and welcome, I'm Noushin Fatema</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
+  </ul>
+</div>
+<!-- <p align="center">
  #  Hello and welcome. I am Noushin Fatema! 👋
-</p>
+</p> -->
 
 
 
@@ -16,7 +24,26 @@ I am a Computer Science and Engineering (CSE) graduate currently working as a Fr
 - 🌱 **Currently learning:** Python and Machine Learning frameworks.
 - 🔬 **Research & Activities:** I am building a habit of reading one research paper a day, currently focusing on papers related to audio deepfake detection.
 
+
 ---
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+### Databases & Authentication
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-%23323330?style=for-the-badge&logo=auth0&logoColor=white)
+
+### Tools
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
 
 ## 🌐 Follow me on socials 
 Let's connect:
@@ -27,20 +54,6 @@ Let's connect:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@noushinfatema)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:noushinfatema788@gmail.com)
 
----
-
-### Frontend & Backend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Databases & Authentication
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-%23323330?style=for-the-badge&logo=auth0&logoColor=white)
-
-### Tools
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
